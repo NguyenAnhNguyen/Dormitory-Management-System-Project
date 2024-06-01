@@ -1,0 +1,22 @@
+.section {
+    h3 {
+        padding: 22px;
+        text-align: center;
+    }
+
+    table {
+        width: 90%;
+    }
+
+    cursor: pointer;
+}
+
+.clearfix {
+    float: none;
+    box-sizing: border-box;
+}
+
+#collapse1 {
+    overflow-y: scroll;
+    height: 400px;
+}
